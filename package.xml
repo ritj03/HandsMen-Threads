@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>InventoryBatchJob</members>
+        <members>OrderTriggerHandler</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>apexEmailNotifications</members>
+        <name>ApexEmailNotifications</name>
+    </types>
+    <types>
+        <members>OrderTotalTrigger</members>
+        <members>OrderTrigger</members>
+        <members>StockDeductionTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>HandsMen_Customer__c</members>
+        <members>HandsMen_Order__c</members>
+        <members>HandsMen_Product__c</members>
+        <members>Inventory__c</members>
+        <members>Marketing_Campaign__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>HandsMen_Threads_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <version>63.0</version>
+</Package>
